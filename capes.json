@@ -1,6 +1,18 @@
-{
-  "7187fb52-752f-4d6c-817a-721bee6dbc7a": "https://minecraftcapes.co.uk/img/capes/special/NewMojang.png",
-  "39a3933e-a825-48e7-8407-45c0c4f7256d": "https://minecraftcapes.co.uk/img/capes/special/NewMojang.png",
-  "577f1637-5cc9-4e7d-ab56-267528ed6856": "https://minecraftcapes.co.uk/img/capes/special/1Mill.png",
-  "6ebdb21b-cf9c-40be-8357-18f872af4010": "https://minecraftcapes.co.uk/img/capes/special/1Mill.png"
-}
+[
+  {
+    "user": "7187fb52-752f-4d6c-817a-721bee6dbc7a",
+    "url": "https://minecraftcapes.co.uk/img/capes/special/NewMojang.png"
+  },
+  {
+    "user": "39a3933e-a825-48e7-8407-45c0c4f7256d",
+    "url": "https://minecraftcapes.co.uk/img/capes/special/NewMojang.png"
+  },
+  {
+    "user": "577f1637-5cc9-4e7d-ab56-267528ed6856",
+    "url": "https://minecraftcapes.co.uk/img/capes/special/1Mill.png"
+  },
+  {
+    "user": "6ebdb21b-cf9c-40be-8357-18f872af4010",
+    "url": "https://minecraftcapes.co.uk/img/capes/special/1Mill.png"
+  }
+]
